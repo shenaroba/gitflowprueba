@@ -4,4 +4,8 @@ asasasas
 
 ppppppppppp
 
+<<<<<<< HEAD
 holi doc
+=======
+amadeo
+>>>>>>> 2426b34477f72a0d5b05ecadf59030061b1a8c00
